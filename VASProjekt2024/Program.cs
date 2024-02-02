@@ -35,7 +35,7 @@ namespace VASProjekt2024
 
 
             Console.WriteLine("--------------------------");
-            Console.Write("Is the product on your wanted price(Yes/No?)");
+            Console.Write("Is the article on your wanted price(Yes/No?)");
             string responseOnWantedPrice = Console.ReadLine();
             string responseOnPriceNotifications;
             string wantedPrice;
